@@ -1,0 +1,18 @@
+{
+  "name": "avr-stl",
+  "keywords": "stl",
+  "description": "STL port for embedded systems",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/spotman/avr-stl.git"
+  },
+  "authors":
+  {
+    "name": "Andy Brown",
+    "url": "http://andybrown.me.uk/2011/01/15/the-standard-template-library-stl-
+for-avr-with-c-streams/"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
